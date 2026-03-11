@@ -8,8 +8,8 @@ and Temperature.
 
 ## Student Details
 
-- Name: Vedant [Your Last Name]
-- Student ID: [Your Student ID]
+- Name: Vedant Vedant Ashishkumar Pandya
+- Student ID: s224698427
 - Unit: SIT708
 - University: Deakin University
 - Task: Pass Task 2.1
