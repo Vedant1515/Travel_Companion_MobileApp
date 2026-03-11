@@ -77,4 +77,3 @@ and Temperature.
 
 ---
 
-## Project Structure
